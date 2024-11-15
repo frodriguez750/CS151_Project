@@ -1,0 +1,17 @@
+{
+	"store_info": {
+		"store_name" : "WalMart",
+		"phone_number" : "408-111-111",
+		"city" : "Gilroy"
+		"state" : "CA",
+		"city_tax" : 9.25
+	},
+	"product_info" : [
+		{
+			"product_code" : "01111",
+			"product_name" : "Banana",
+			"price" : 1.99,
+			"description" : "Top-Selling Fruit"
+		}
+	]
+}
